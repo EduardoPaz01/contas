@@ -1,2 +1,2 @@
 # contas
-Meu primeiro programa em python, e sua evolução ao passar do tempo
+Programa básico em python para resolver alguns tipos de contas
